@@ -23,7 +23,6 @@
             {
                 Console.WriteLine($"坐标点的位置为x:{point.x},y:{point.y}");
                 Console.WriteLine("测试");
-                Console.WriteLine("测试111");
             }
         }
 

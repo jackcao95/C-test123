@@ -22,6 +22,7 @@
             public void ConPoint(dynamic point)
             {
                 Console.WriteLine($"坐标点的位置为x:{point.x},y:{point.y}");
+                Console.WriteLine("测试");
             }
         }
 
